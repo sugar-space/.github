@@ -20,9 +20,9 @@ Welcome to the official GitHub of **Sugar**, a platform built to empower creator
 
 ## 📦 Repos
 
-| Project            | Description                                  |
-|--------------------|----------------------------------------------|
-| [`web-lisk`](https://github.com/sugar-space/web-lisk) | Frontend web interface (Remix) |
-| [`engine-lisk`](https://github.com/sugar-space/engine-lisk) | Backend API (Node.js, Express)      |
-| [`contract`](https://github.com/sugar-space/contract) | Smart Contract (Solidity)        |
-| [`infra`](https://github.com/sugar-space/infra) | Infrastructure        |
+| Project                                                     | Description                    |
+| ----------------------------------------------------------- | ------------------------------ |
+| [`web-lisk`](https://github.com/sugar-space/web-lisk)       | Frontend web interface (Remix) |
+| [`engine-lisk`](https://github.com/sugar-space/engine-lisk) | Backend API (Node.js, Express) |
+| [`contract`](https://github.com/sugar-space/contract)       | Smart Contract (Solidity)      |
+| [`infra`](https://github.com/sugar-space/infra)             | Infrastructure                 |
